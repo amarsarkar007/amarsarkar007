@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsarkar007&label=Profile%20views&color=0e75b6&style=flat" alt="amarsarkar007" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://amarsarkar007.github.io/](https://amarsarkar007.github.io/)
 
